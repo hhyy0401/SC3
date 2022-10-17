@@ -15,8 +15,8 @@ These are source codes for the paper under review.
 1. Real world datasets are available in [here](https://www.cs.cornell.edu/~arb/data/). 
   
 ## Outputs
-1. timestamp for each step (building, sampling, scanning, matching)
-2. count of every simplet of size k
+1. (csv) timestamp for each step (building, sampling, scanning, matching)
+2. (csv) count of every simplet of size k with a format ({id}, {counts}\n)
 
 
 ## Running Codes
@@ -28,5 +28,5 @@ These are source codes for the paper under review.
 k="4 5" # a list of the size of simplets
 ss="100 1000" #a list of the number of samples
 datas="example" #a list of the name of datasets
-trials=5 #the number of trials for running **SC3**.
+trials=5 #the number of trials for running SC3.
 ```
