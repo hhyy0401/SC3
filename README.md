@@ -11,7 +11,7 @@ These are source codes for the paper under review.
 
 
 
-## Datasets & Inputs
+## Datasets 
 1. Real world datasets are available in [here](https://www.cs.cornell.edu/~arb/data/). 
   
 ## Outputs
@@ -20,4 +20,6 @@ These are source codes for the paper under review.
 
 
 ## Running Codes
-
+1. create folders (dataset, result) to the parallel directory of "src".
+2. create folders (timestamp, CC) on a subdirectory of "result".
+3. command "bash run.sh"  
