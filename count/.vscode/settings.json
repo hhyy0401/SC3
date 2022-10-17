@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "fstream": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp"
+    }
+}
