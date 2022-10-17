@@ -22,4 +22,11 @@ These are source codes for the paper under review.
 ## Running Codes
 1. create folders (dataset, result) to the parallel directory of "src".
 2. create folders (timestamp, CC) on a subdirectory of "result".
-3. command "bash run.sh"  
+3. command "bash run.sh". Feel free to change the variable k, s, trial, datas in run.sh. 
+
+```
+k="4 5" # a list of the size of simplets
+ss="100 1000" #a list of the number of samples
+datas="example" #a list of the name of datasets
+trials=5 #the number of trials for running **SC3**.
+```
