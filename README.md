@@ -1,12 +1,14 @@
-# SC3
+# SC3: Simplet Counting using Color Coding
 
 Source code for the paper under review.
 
 
 
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+## Datasets
+Real world datasets are available in [here]([https://www.cs.cornell.edu/~arb/data/]).
+
+## Input & Output
+
+
+## Running Codes
+
