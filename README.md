@@ -16,7 +16,7 @@ These are source codes for the paper under review.
   
 ## Outputs
 1. (csv) timestamp for each step (building, sampling, scanning, matching)
-2. (csv) count of every simplet of size k with a format ({id}, {counts}\n)
+2. (csv) count of every simplet of size k with a format ({id of a simplet}, {counts}\n)
 
 
 ## Running Codes
