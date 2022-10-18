@@ -13,6 +13,13 @@ These are source codes for the paper under review.
 
 ## Datasets 
 1. Real world datasets are available in [here](https://www.cs.cornell.edu/~arb/data/). 
+  |dataset|V|M(K)|
+  |------|---|---|
+  |coauth-DBLP|||
+  |coauth-MAG-History|||
+  |coauth-MAG-Geology|||
+  |coauth-MAG-Geology|||
+  
   
 ## Outputs
 1. (csv) timestamp for each step (building, sampling, scanning, matching)
