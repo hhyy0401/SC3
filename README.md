@@ -16,18 +16,22 @@ These are source codes for the paper under review.
 
 | dataset  | # of vertices | # of maximal simplices |
 |----|---|---|
-| 3  | 4 | 6 |
-| 11 | 1 | 1 |
-|    |   |   |
-| 3  | 4 | 6 |
-| 11 | 1 | 1 |
-|    |   |   |
-| 3  | 4 | 6 |
-| 11 | 1 | 1 |
-|    |   |   |
-| 3  | 4 | 6 |
-| 11 | 1 | 1 |
-|    |   |   |
+| coauth-DBLP | 1,924,991 | 1,730,664 |
+| coauth-MAG-Geology | 1,256,385 | 925,027 |
+| coauth-MAG-History | 1,014,734 | 774,495 |
+| congress-bills  | 1,718 | 48,898 |
+| contact-high-school | 327 | 4,862 |
+| contact-primary-school | 242 | 8,010 |
+| DAWN  | 2,558 | 72,421 |
+| email-Eu | 998 | 8,102 |
+| email-Enron | 143 |433 |
+| NDC-classes | 1,161 | 563 |
+| NDC-substances | 5,311 | 6,555 |
+| tags-ask-ubuntu | 3,029 | 95,639 |
+| tags-stak-overflow  | 49,998 |3,781,574 |
+| threads-ask-ubuntu |125,602 | 149,025 |
+| threads-math-sx  |  176,445 | 519,573  |
+| threads-stack-overflow  |  2,675,955 |  8,694,667 |
   
 ## Outputs
 1. (csv) timestamp for each step (building, sampling, scanning, matching) 
