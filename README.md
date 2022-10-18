@@ -14,11 +14,8 @@ These are source codes for the paper under review.
 ## Datasets 
 1. Real world datasets are available in [here](https://www.cs.cornell.edu/~arb/data/). 
 2. table of statistics
-머리1 | 머리2 | 머리3 | 뚝배기
----- | ---- | ---- | ----
-다리 | 다리1 | 다리2 | 뚝배기깹니다
-금 | 의 | 환 | 향
-  
+
+
   
 ## Outputs
 1. (csv) timestamp for each step (building, sampling, scanning, matching)
