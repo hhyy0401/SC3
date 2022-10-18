@@ -1,7 +1,7 @@
 make clean
 make main
 
-ks="4" #4 or 5
+ks="4 5" #4 or 5
 ss="100 1000"
 trial=5
 
