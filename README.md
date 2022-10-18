@@ -40,7 +40,7 @@ These are source codes for the paper under review.
 
 
 ## Running Codes
-1. command "bash run.sh". Feel free to change the variable k, s, trial, datas in the file "run.sh"
+1. command "bash run.sh". Feel free to change the variable k, ss, trial, datas in the file "run.sh"
 ```
 k="4 5" # a list of the size of simplets
 ss="100 1000" #a list of the number of samples
