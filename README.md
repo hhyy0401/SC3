@@ -14,7 +14,7 @@ These are source codes for the paper under review.
 ## Datasets 
 1. Real world datasets are available in [here](https://www.cs.cornell.edu/~arb/data/). The format of the data is exactly as provided, and for SC3, "{data}-nverts.txt", "{data}-simplices.txt" are only necessary. Feel free to delete repeated or non-maximal simplices.
 
-| 1  | 2 | 5 |
+| dataset  | # of vertices | # of maximal simplices |
 |----|---|---|
 | 3  | 4 | 6 |
 | 11 | 1 | 1 |
