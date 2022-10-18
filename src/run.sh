@@ -5,7 +5,7 @@ ks="4" #4 or 5
 ss="100 1000"
 trial=5
 
-datas="coauth-DBLP coauth-MAG-Geology coauth-MAG-History congress-bills contact-high-school contact-primary-school DAWN email-Enron email-Eu NDC-classes NDC-substances tags-ask-ubuntu tags-math-sx tags-stack-overflow threads-ask-ubuntu threads-math-sx threads-stack-overflow"
+datas="example"
 
 echo "START"
 
