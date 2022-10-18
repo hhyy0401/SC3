@@ -5,21 +5,19 @@ These are source codes for the paper under review.
 
 * **SC3** is the algorithm for counting simplets of size 4 and 5 based on Color Coding method where simplets are isomorphic classes of connected induced subcomplexes.
 * **SC3**, which extends CC (Color Coding) method from graphlets to simplets, have following properties:
-  1. accurate compare to baseline
+  1. accurate compared to baselines
   2. fast and scalable
-* Especially, the counts of simplets by SC3 have strong power to characterize networks domain by domain.
+* Especially, the counts of simplets by SC3 have strong power to characterize SCs domain by domain.
 
 
 
 ## Datasets 
 1. Real world datasets are available in [here](https://www.cs.cornell.edu/~arb/data/). 
 2. table of statistics
-  |      dataset     |  V  |   M(K)  |
-  |------------------|-----|---------|
-  |coauth-DBLP       |     |         |
-  |coauth-MAG-History|     |         |
-  |coauth-MAG-Geology|     |         |
-  |coauth-MAG-Geology|     |         |
+머리1 | 머리2 | 머리3 | 뚝배기
+---- | ---- | ---- | ----
+다리 | 다리1 | 다리2 | 뚝배기깹니다
+금 | 의 | 환 | 향
   
   
 ## Outputs
