@@ -16,7 +16,7 @@ These are source codes for the paper under review.
 2. [Statistics of datasets we used]
 
 | dataset  | # of vertices | # of maximal simplices |
-|----|---|---|
+|----|---:|---:|
 | coauth-DBLP | 1,924,991 | 1,730,664 |
 | coauth-MAG-Geology | 1,256,385 | 925,027 |
 | coauth-MAG-History | 1,014,734 | 774,495 |
