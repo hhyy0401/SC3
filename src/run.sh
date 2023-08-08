@@ -2,7 +2,7 @@ make clean
 make main
 
 ks="4 5" #4 or 5
-ss="100 1000"
+ss="10000"
 trial=5
 
 datas="example"
