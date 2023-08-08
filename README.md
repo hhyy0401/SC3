@@ -1,6 +1,6 @@
 # SC3: Simplet Counting Using Color Coding
 
-These are source codes for the paper under review.
+These are source codes for the paper "Characterization of Simplicial Complexes by Counting Simplets Beyond Four Nodes".
 
 
 * **SC3** is the algorithm for counting simplets of size 4 and 5 based on Color Coding method where simplets are isomorphic classes of connected induced subcomplexes.
